@@ -43,7 +43,7 @@
 
 Detailed conclusions and examples of SQL queries are displayed in 'netflix_report.txt'
 
-##Instructions:
+## Instructions:
 
 When using 'COPY netflix_raw FROM 'C:/netflix_project/netflix_titles_nov_2019.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8'); -- 3 strings were lost due copying because of incorrect format of some symbols. It's a minor loss which will not affect results of the analysis', put your way to the dataset 'netflix_titles_nov_2019'after 'FROM'.
 
